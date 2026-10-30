@@ -10,6 +10,7 @@ out/
 
 # ---------- Maven / Gradle ----------
 .mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper
 .gradle/
 !gradle/wrapper/gradle-wrapper.jar
 
